@@ -11,7 +11,7 @@
   }
   
   h1 {
-    font-family: 'Inter';
+    font-family:'inter';
     font-size: 4rem;
     font-weight: bold;
     line-height: 1.5;
@@ -20,7 +20,7 @@
   
   h2
   {
-    font-family: 'Inter';
+    font-family: 'inter';
     font-size: 2rem;
     line-height: 1.5;
   }
@@ -58,8 +58,8 @@
     padding-left: 0;
   }
   
-  .tincat {
-    font-family: 'Ubuntu';
+  .Cryptocipher {
+    font-family: 'inter';
     font-size: 2.5rem;
     font-weight: bold;
   }
